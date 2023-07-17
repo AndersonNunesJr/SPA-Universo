@@ -20,16 +20,19 @@ body {
 #home {
   background-image: url(./imgs/mountains-universe-1.png);
   background-repeat: round;
+  background-size:cover;
   height: 100%;
 }
 #about {
   background-image: url(./imgs/mountains-universe-2.png);
   background-repeat: round;
+  background-size:cover;
   height: 100%;
 }
 #testimonial {
   background-image: url(./imgs/mountains-universe-3.png);
   background-repeat: round;
+  background-size:cover;
   height: 100%;
 }
 .navBar {
